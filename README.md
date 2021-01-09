@@ -19,3 +19,9 @@ This repo will store 50 different projects using only HTML, CSS and JS for study
 <br>
 
 ![Project 003](https://github.com/lucianodiisouza/50ProjsChallenge/blob/main/previews/project_003.gif)
+
+> Project 004: Hidden Search
+
+<br>
+
+![Project 004](https://github.com/lucianodiisouza/50ProjsChallenge/blob/main/previews/project_004.gif)
