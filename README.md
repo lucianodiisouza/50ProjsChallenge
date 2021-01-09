@@ -13,3 +13,9 @@ This repo will store 50 different projects using only HTML, CSS and JS for study
 <br>
 
 ![Project 002](https://github.com/lucianodiisouza/50ProjsChallenge/blob/main/previews/project_002.gif)
+
+> Project 003: Rotating Navigation
+
+<br>
+
+![Project 003](https://github.com/lucianodiisouza/50ProjsChallenge/blob/main/previews/project_003.gif)
